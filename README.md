@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yixiangyin
+- 👋 Hi, I’m Yixiang Yin (殷艺翔).
 - 👀 I’m interested in computer science, psychology.
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on working various software projects
