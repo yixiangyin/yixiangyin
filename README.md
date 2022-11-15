@@ -1,6 +1,6 @@
 I am current working on:
-* cs50
-* cp
+* cs50 | W4
+* cp   | 
 
 
 Archived:
