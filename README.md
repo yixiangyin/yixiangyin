@@ -1,13 +1,7 @@
-I am current working on:
-* cs50
-    * https://cs50.harvard.edu/x/2022/
-* cp
-    * http://web.stanford.edu/class/cs97si/
-
-
-
-Archived:
-
+- 👀 I’m interested in computer science, psychology.
+- 🌱 I’m currently learning computer science at ANU (2023).
+- 💞️ I’m looking to collaborate on working various software projects.
+- 📫 How to reach me: y1027020239@qq.com
 
 <!---
 yixiangyin/yixiangyin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
