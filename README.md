@@ -1,13 +1,10 @@
-Current side projects:
+I am current working on:
 * cs50
 * cp
 
 
-- 👋 Hi, I’m Yixiang Yin (殷艺翔).
-- 👀 I’m interested in computer science, psychology.
-- 🌱 I’m currently learning computer science at ANU (2023).
-- 💞️ I’m looking to collaborate on working various software projects
-- 📫 How to reach me: y1027020239@qq.com
+Archived:
+
 
 <!---
 yixiangyin/yixiangyin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
