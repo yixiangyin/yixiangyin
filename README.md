@@ -1,6 +1,9 @@
 I am current working on:
 * cs50 | W4
-* cp   | 
+    * https://cs50.harvard.edu/x/2022/
+* cp   |
+    * http://web.stanford.edu/class/cs97si/
+
 
 
 Archived:
