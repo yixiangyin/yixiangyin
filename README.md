@@ -1,3 +1,8 @@
+Current side projects:
+* cs50
+* cp
+
+
 - 👋 Hi, I’m Yixiang Yin (殷艺翔).
 - 👀 I’m interested in computer science, psychology.
 - 🌱 I’m currently learning computer science at ANU (2023).
