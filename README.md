@@ -1,7 +1,7 @@
 I am current working on:
-* cs50 | W4
+* cs50
     * https://cs50.harvard.edu/x/2022/
-* cp   |
+* cp
     * http://web.stanford.edu/class/cs97si/
 
 
