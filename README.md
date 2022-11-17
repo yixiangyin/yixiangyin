@@ -1,6 +1,5 @@
-- 👀 I’m interested in computer science, psychology.
-- 🌱 I’m currently learning computer science at ANU (2023).
-- 💞️ I’m looking to collaborate on working various software projects.
+- 👀 I’m interested in general computer science.
+- 🌱 I’m currently doing a bachelor on computer science at ANU (2023).
 - 📫 How to reach me: y1027020239@qq.com
 
 <!---
