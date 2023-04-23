@@ -1,4 +1,4 @@
-Hello, I'm Yixiang Yin.
+Hello I'm Yixiang Yin.
 See you in my personal website -> [link](https://yixiangyin.github.io/)
 <!---
 yixiangyin/yixiangyin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
